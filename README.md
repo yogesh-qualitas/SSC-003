@@ -98,6 +98,6 @@ This project is licensed under the MIT License.
 ---
 
 **Contributors**: 
-- Your Name (@your-github-handle)
+- Yogesh J (@yogesh-qualitas)
 
-For questions, reach out at **your-email@example.com**.
+For questions, reach out at **yogesh@qualitastech.com**.
